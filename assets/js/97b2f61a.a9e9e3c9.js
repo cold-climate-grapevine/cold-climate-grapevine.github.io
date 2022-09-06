@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcold_climate_grapevine=self.webpackChunkcold_climate_grapevine||[]).push([[388],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

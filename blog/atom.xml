@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cold-climate-grapevine.github.io/blog</id>
+    <title>Feed</title>
+    <updated>2022-09-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cold-climate-grapevine.github.io/blog"/>
+    <subtitle>Feed</subtitle>
+    <icon>https://cold-climate-grapevine.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>/2022/09/06/welcome</id>
+        <link href="https://cold-climate-grapevine.github.io/blog/2022/09/06/welcome"/>
+        <updated>2022-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Marquette]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Marquette" src="/assets/images/Marquette_ES100233-cf3aa959d0f876ee9827b795a10cf5fc.webp" width="325" height="220" class="img_ev3q"></p><button>Click me!</button>]]></content>
+        <author>
+            <name>vine</name>
+            <uri>https://github.com/cold-climate-grapevine</uri>
+        </author>
+        <category label="cold climate grapevine" term="cold climate grapevine"/>
+    </entry>
+</feed>

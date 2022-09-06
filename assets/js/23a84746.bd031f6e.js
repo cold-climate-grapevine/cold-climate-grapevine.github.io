@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcold_climate_grapevine=self.webpackChunkcold_climate_grapevine||[]).push([[325],{5290:e=>{e.exports=JSON.parse('{"label":"cold climate grapevine","permalink":"/blog/tags/cold-climate-grapevine","allTagsPath":"/blog/tags","count":1}')}}]);
