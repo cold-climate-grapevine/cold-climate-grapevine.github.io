@@ -24,7 +24,15 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "ru"],
+    localeConfigs: {
+      en: {
+        htmlLang: "en-US",
+      },
+      ru: {
+        htmlLang: "ru-RU",
+      },
+    },
   },
 
   presets: [
@@ -98,6 +106,7 @@ const config = {
             label: "Course",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { type: "localeDropdown", position: "left" },
           {
             href: "https://github.com/cold-climate-grapevine/cold-climate-grapevine.github.io",
             label: "GitHub",
