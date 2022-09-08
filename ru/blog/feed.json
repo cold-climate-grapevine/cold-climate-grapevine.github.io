@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Feed",
+    "home_page_url": "https://cold-climate-grapevine.github.io/ru/blog",
+    "description": "Feed",
+    "items": [
+        {
+            "id": "/2022/09/06/welcome",
+            "content_html": "<p><img loading=\"lazy\" alt=\"Marquette\" src=\"/ru/assets/images/Marquette_ES100233-cf3aa959d0f876ee9827b795a10cf5fc.webp\" width=\"325\" height=\"220\" class=\"img_ev3q\"></p><button>Click me!</button>",
+            "url": "https://cold-climate-grapevine.github.io/ru/blog/2022/09/06/welcome",
+            "title": "Welcome",
+            "summary": "Marquette",
+            "date_modified": "2022-09-06T00:00:00.000Z",
+            "author": {
+                "name": "vine",
+                "url": "https://github.com/cold-climate-grapevine"
+            },
+            "tags": [
+                "cold climate grapevine"
+            ]
+        }
+    ]
+}

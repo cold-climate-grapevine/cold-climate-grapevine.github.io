@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcold_climate_grapevine=self.webpackChunkcold_climate_grapevine||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"All our posts","items":[{"title":"Welcome","permalink":"/ru/blog/2022/09/06/welcome"}]}')}}]);

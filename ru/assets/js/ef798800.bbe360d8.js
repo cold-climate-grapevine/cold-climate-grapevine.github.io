@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcold_climate_grapevine=self.webpackChunkcold_climate_grapevine||[]).push([[534],{3143:e=>{e.exports=JSON.parse('{"permalink":"/ru/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
