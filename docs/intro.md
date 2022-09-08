@@ -13,60 +13,60 @@ slug: /
 
 Welcome to 'Growing Grapes in Cold Climates'!
 
-### In this course, you will learn
+### In this course, you will learn {#you-will-learn}
 
 - Key facts about how grapevines grow
 - Best management practices for growing a successful vineyard business, from planting the first vines to harvesting your grapes
 - How to effectively and sustainably manage weeds, insect pests, diseases and vertebrate pests using Integrated Pest Management
 
-### Audiences
+### Audiences {#audiences}
 
 New and prospective vineyard owners and managers in cold climates, and seasoned cold climate grape growers looking to refresh their skills. Backyard grape growers are also welcome to use this course.
 
-### Prerequisites
+### Prerequisites {#prerequisites}
 
 There are no prerequisites. This course is designed for seasonal employees and those with no experience, novice growers, and experienced growers.
 
-### Time Commitment
+### Time Commitment {#time-commitment}
 
-This course consists of 11 modules. Each module takes 30-60 minutes to complete, including watching the videos and taking the quizzes. Additional materials are provided for those looking for more information.
+This course consists of 12 modules. Each module takes 30-60 minutes to complete, including watching the videos and taking the quizzes. Additional materials are provided for those looking for more information.
 
-### Course Dates
+### Course Dates {#course-dates}
 
 This course is self-paced and has no time limit. You can take it any time and refer back to it later.
 
-### Assessment
+### Assessment {#assessment}
 
 Short quizzes at the end of each module test participants’ understanding of key concepts. Quizzes are un-timed, and multiple attempts can be made. Quizzes are “graded” to provide immediate feedback; however, there are no grades for the course.
 
-## Course Modules
+## Course Modules {#course-modules}
 
 [1. The Life of a Grapevine](life-of-grapevine)
 
-[Starting a New Vineyard](https://canvas.umn.edu/courses/142768/modules/366367 "Starting a New Vineyard")
+[2. Starting a New Vineyard](#)
 
-[Managing Young Vines](https://canvas.umn.edu/courses/142768/modules/366369 "Managing Young Vines")
+[3. Managing Young Vines](#)
 
-[In-season Canopy Management](https://canvas.umn.edu/courses/142768/modules/366370 "In-season Canopy Management")
+[4. In-season Canopy Management](#)
 
-[Vine Nutrition, Nutrient Testing, and Fertilization](https://canvas.umn.edu/courses/142768/modules/366371 "Vine Nutrition, Nutrient Testing, and Fertilization")
+[5. Vine Nutrition, Nutrient Testing, and Fertilization](#)
 
-[Weed Management](https://canvas.umn.edu/courses/142768/modules/366372 "Weed Management")
+[6. Weed Management](#)
 
-[Insect Identification and Management](https://canvas.umn.edu/courses/142768/modules/366193 "Insect Identification and Management")
+[7. Insect Identification and Management](#)
 
-[Disease Identification and Management](https://canvas.umn.edu/courses/142768/modules/366365 "Disease Identification and Management")
+[8. Disease Identification and Management](#)
 
-[Wildlife Management](https://canvas.umn.edu/courses/142768/modules/366366 "Wildlife Management ")
+[9. Wildlife Management](#)
 
-[Designing a Pest Management Plan](https://canvas.umn.edu/courses/142768/modules/366373 "Designing a Pest Management Plan")
+[10. Designing a Pest Management Plan](#)
 
-[Pre-Harvest Decisions](https://canvas.umn.edu/courses/142768/modules/366374 "Pre-Harvest Decisions")
+[11. Pre-Harvest Decisions](#)
 
-[Dormant Pruning](https://canvas.umn.edu/courses/142768/modules/366375 "Dormant Pruning")
+[12. Dormant Pruning](#)
 
-## Course Completion and Resources
+## Course Completion and Resources {#course-completion-and-resources}
 
-[Course Review and Summary](https://canvas.umn.edu/courses/142768/modules/379198 "Course Review and Summary")
+[Course Review and Summary](https://canvas.umn.edu/courses/142768/modules/379198)
 
-[Resources](https://canvas.umn.edu/courses/142768/modules/372065 "Resources")
+[Resources](https://canvas.umn.edu/courses/142768/modules/372065)
