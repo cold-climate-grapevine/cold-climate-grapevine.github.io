@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.vineSidebar.category.1. The Life of a Grapevine": {
+    "message": "1. The Life of a Grapevine",
+    "description": "The label for category 1. The Life of a Grapevine in sidebar vineSidebar"
+  }
+}
