@@ -29,7 +29,7 @@ There are no prerequisites. This course is designed for seasonal employees and t
 
 ### Time Commitment {#time-commitment}
 
-This course consists of 12 modules. Each module takes 30-60 minutes to complete, including watching the videos and taking the quizzes. Additional materials are provided for those looking for more information.
+This course consists of 11 modules. Each module takes 30-60 minutes to complete, including watching the videos and taking the quizzes. Additional materials are provided for those looking for more information.
 
 ### Course Dates {#course-dates}
 
@@ -59,11 +59,9 @@ Short quizzes at the end of each module test participants’ understanding of ke
 
 [9. Wildlife Management](#)
 
-[10. Designing a Pest Management Plan](#)
+[10. Pre-Harvest Decisions](#)
 
-[11. Pre-Harvest Decisions](#)
-
-[12. Dormant Pruning](#)
+[11. Dormant Pruning](#)
 
 ## Course Completion and Resources {#course-completion-and-resources}
 
