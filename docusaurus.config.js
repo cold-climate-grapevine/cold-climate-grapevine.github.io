@@ -33,6 +33,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -89,11 +90,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Home",
-        logo: {
-          alt: "Marquette",
-          src: "img/Marquette_ES100233-tynyfied-cropped.png",
-        },
         items: [
           {
             type: "doc",
@@ -117,7 +113,7 @@ const config = {
             items: [
               {
                 label: "Course",
-                to: "/docs/intro",
+                to: "/",
               },
             ],
           },

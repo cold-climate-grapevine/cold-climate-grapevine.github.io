@@ -2,11 +2,12 @@
 id: intro
 title: Intro
 date: 2022-09-04 12:24:04
+slug: /
 ---
 
 <div style={{width: "fit-content", margin: "auto"}}>
 
-![Marquette](Marquette_ES100233.webp 'Marquette')
+![Marquette](Marquette_ES100233.webp "Marquette")
 
 </div>
 
@@ -40,32 +41,32 @@ Short quizzes at the end of each module test participants’ understanding of ke
 
 ## Course Modules
 
-[1. The Life of a Grapevine](life-of-grapevine 'The Life of a Grapevine')
+[1. The Life of a Grapevine](life-of-grapevine)
 
-[Starting a New Vineyard](https://canvas.umn.edu/courses/142768/modules/366367 'Starting a New Vineyard')
+[Starting a New Vineyard](https://canvas.umn.edu/courses/142768/modules/366367 "Starting a New Vineyard")
 
-[Managing Young Vines](https://canvas.umn.edu/courses/142768/modules/366369 'Managing Young Vines')
+[Managing Young Vines](https://canvas.umn.edu/courses/142768/modules/366369 "Managing Young Vines")
 
-[In-season Canopy Management](https://canvas.umn.edu/courses/142768/modules/366370 'In-season Canopy Management')
+[In-season Canopy Management](https://canvas.umn.edu/courses/142768/modules/366370 "In-season Canopy Management")
 
-[Vine Nutrition, Nutrient Testing, and Fertilization](https://canvas.umn.edu/courses/142768/modules/366371 'Vine Nutrition, Nutrient Testing, and Fertilization')
+[Vine Nutrition, Nutrient Testing, and Fertilization](https://canvas.umn.edu/courses/142768/modules/366371 "Vine Nutrition, Nutrient Testing, and Fertilization")
 
-[Weed Management](https://canvas.umn.edu/courses/142768/modules/366372 'Weed Management')
+[Weed Management](https://canvas.umn.edu/courses/142768/modules/366372 "Weed Management")
 
-[Insect Identification and Management](https://canvas.umn.edu/courses/142768/modules/366193 'Insect Identification and Management')
+[Insect Identification and Management](https://canvas.umn.edu/courses/142768/modules/366193 "Insect Identification and Management")
 
-[Disease Identification and Management](https://canvas.umn.edu/courses/142768/modules/366365 'Disease Identification and Management')
+[Disease Identification and Management](https://canvas.umn.edu/courses/142768/modules/366365 "Disease Identification and Management")
 
-[Wildlife Management](https://canvas.umn.edu/courses/142768/modules/366366 'Wildlife Management ')
+[Wildlife Management](https://canvas.umn.edu/courses/142768/modules/366366 "Wildlife Management ")
 
-[Designing a Pest Management Plan](https://canvas.umn.edu/courses/142768/modules/366373 'Designing a Pest Management Plan')
+[Designing a Pest Management Plan](https://canvas.umn.edu/courses/142768/modules/366373 "Designing a Pest Management Plan")
 
-[Pre-Harvest Decisions](https://canvas.umn.edu/courses/142768/modules/366374 'Pre-Harvest Decisions')
+[Pre-Harvest Decisions](https://canvas.umn.edu/courses/142768/modules/366374 "Pre-Harvest Decisions")
 
-[Dormant Pruning](https://canvas.umn.edu/courses/142768/modules/366375 'Dormant Pruning')
+[Dormant Pruning](https://canvas.umn.edu/courses/142768/modules/366375 "Dormant Pruning")
 
 ## Course Completion and Resources
 
-[Course Review and Summary](https://canvas.umn.edu/courses/142768/modules/379198 'Course Review and Summary')
+[Course Review and Summary](https://canvas.umn.edu/courses/142768/modules/379198 "Course Review and Summary")
 
-[Resources](https://canvas.umn.edu/courses/142768/modules/372065 'Resources')
+[Resources](https://canvas.umn.edu/courses/142768/modules/372065 "Resources")
