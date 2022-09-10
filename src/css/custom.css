@@ -18,7 +18,7 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -27,4 +27,125 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+p img {
+  border: 1px solid black;
+  padding: 4px;
+  background: white;
+  border-radius: 4px;
+  margin: 0 auto;
+  display: block;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed,
+.embed-container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+
+figure {
+  margin: 0 0 20px;
+  text-align: center;
+  overflow-x: auto;
+  overflow-y: hidden;
+  clear: both;
+}
+
+.thumbnail {
+  display: inline-block;
+  padding: 4px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  -webkit-transition: border 0.2s ease-in-out;
+  -o-transition: border 0.2s ease-in-out;
+  transition: border 0.2s ease-in-out;
+}
+
+.thumbnail {
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
+}
+
+.fb-embed {
+  display: block;
+  max-width: 806px;
+  margin: 0 auto;
+}
+
+.embed-container {
+  background-color: #000;
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 43.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  border-width: 0px;
+  border-style: solid;
+  border-color: #212121;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: content-box;
+}
+
+.fr1 {
+  padding-bottom: 41%;
+  margin: 0;
+}
+
+@media (min-width: 320px) {
+  .fr1 {
+    padding-bottom: 46%;
+  }
+}
+
+@media (min-width: 425px) {
+  .fr1 {
+    padding-bottom: 48%;
+  }
+}
+
+@media (min-width: 540px) {
+  .fr1 {
+    padding-bottom: 50%;
+  }
+}
+@media (min-width: 685px) {
+  .fr1 {
+    padding-bottom: 50%;
+  }
+}
+@media (min-width: 768px) {
+  .fr1 {
+    padding-bottom: 53%;
+  }
+}
+
+@media (min-width: 997px) {
+  .fr1 {
+    padding-bottom: 50%;
+  }
+}
+
+@media (min-width: 1440px) {
+  .fr1 {
+    padding-bottom: 52.5%;
+  }
 }
