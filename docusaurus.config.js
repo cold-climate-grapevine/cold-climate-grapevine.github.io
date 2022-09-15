@@ -93,6 +93,19 @@ const config = {
       }),
     ],
   ],
+  plugins: [
+    [
+      "@docusaurus/plugin-ideal-image",
+      /** @type {import('@docusaurus/plugin-ideal-image').PluginOptions} */
+      {
+        quality: 70,
+        max: 1890, // max resized image's size.
+        min: 240, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+        disableInDev: false, // By default, the plugin is inactive in development
+      },
+    ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
