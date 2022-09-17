@@ -149,3 +149,7 @@ iframe {
     padding-bottom: 52.5%;
   }
 }
+
+.medium-zoom-image--opened {
+  z-index: 999;
+}
