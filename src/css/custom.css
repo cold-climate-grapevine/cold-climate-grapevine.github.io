@@ -153,3 +153,11 @@ iframe {
 .medium-zoom-image--opened {
   z-index: 999;
 }
+
+.medium-zoom-overlay {
+  background: #fff !important;
+}
+
+[data-theme="dark"] .medium-zoom-overlay {
+  background: #000 !important;
+}
