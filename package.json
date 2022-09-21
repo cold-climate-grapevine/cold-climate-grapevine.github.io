@@ -12,7 +12,8 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "postinstall": "cp -r src/components/ZoomIdealImage/lib/@endiliey/react-ideal-image/dist/components/* node_modules/@endiliey/react-ideal-image/dist/components/"
   },
   "dependencies": {
     "@docusaurus/core": "2.1.0",
