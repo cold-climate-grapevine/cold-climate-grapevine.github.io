@@ -35,7 +35,7 @@ class SingleImageZoom extends Component {
           .replace(/(?:\/([a-z-]*))+.*/, "$1")
           .replace(/-/g, " ")
           .replace(/^./, (str) => str.toUpperCase())}
-        threshold={1000}
+        threshold={100000}
       />
     );
   }
